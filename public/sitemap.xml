@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
+    <changefreq>monthly</changefreq>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
+    <changefreq>monthly</changefreq>
   </url><url>
-    <loc>/blog/main1/</loc>
+    <loc>//localhost:1313/categories/</loc>
+    <changefreq>monthly</changefreq>
   </url><url>
-    <loc>/blog/main2/</loc>
+    <loc>//localhost:1313/contacts/</loc>
+    <changefreq>monthly</changefreq>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/contacts/a/</loc>
+    <changefreq>monthly</changefreq>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
