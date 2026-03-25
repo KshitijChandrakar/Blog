@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home on </title>
+		<link>/</link>
+		<description>Recent content in Home on </description>
+		<generator>Hugo 0.152.2</generator>
+		<language>en</language>
+		<atom:link href="/index.xml" rel="self" type="application/rss+xml"/>
+		<item>
+			<title>WJOA</title>
+			<link>/blog/main2/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">/blog/main2/</guid>
+			<description>&lt;p&gt;asfdaf&lt;/p&gt;
+</description>
+		</item>
+		<item>
+			<title>WJOA</title>
+			<link>/blog/main1/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">/blog/main1/</guid>
+			<description>&lt;p&gt;asfdaf&lt;/p&gt;
+</description>
+		</item>
+	</channel>
+</rss>
