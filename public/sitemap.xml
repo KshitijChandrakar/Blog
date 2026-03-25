@@ -14,9 +14,6 @@
     <loc>//localhost:1313/contacts/</loc>
     <changefreq>monthly</changefreq>
   </url><url>
-    <loc>//localhost:1313/contacts/a/</loc>
-    <changefreq>monthly</changefreq>
-  </url><url>
     <loc>//localhost:1313/tags/</loc>
     <changefreq>monthly</changefreq>
   </url>
